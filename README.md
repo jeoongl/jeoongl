@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Jeo!
 
-<!--
-**jeoongl/jeoongl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tech | art | life
+🎓 Fresh graduate | 💻 Web Developer   
+📫 Reach me at: [jeoong.email@gmail.com](mailto:jeoong.email@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
+
+---
+
+## 📈 GitHub Stats
+
+![Jeoongl's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeoongl&show_icons=true&theme=tokyonight)
