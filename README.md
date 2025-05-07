@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Jeo!
 
-tech | art | life
 🎓 Fresh graduate | 💻 Web Developer   
 📫 Reach me at: [jeoong.email@gmail.com](mailto:jeoong.email@gmail.com)
 
